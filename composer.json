@@ -1,0 +1,14 @@
+{
+    "name": "rdx/exact",
+    "type": "project",
+    "require": {
+        "picqer/exact-php-client": "^3.14"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rudie Dirkx",
+            "email": "github@hotblocks.nl"
+        }
+    ]
+}
